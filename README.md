@@ -13,7 +13,7 @@
 
 Run time with python program.Practice python program daily.Create your python programming skill.
 
-### Android ###
+### Android Terminal ###
 
 <ul>
 <li><a href="https://termux.com">termux</li>
