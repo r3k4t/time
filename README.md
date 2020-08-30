@@ -21,7 +21,7 @@ Run time with python program.Practice python program daily.Create your python pr
 
 ### Getting Started ###
 
-git clone https://github.com/r3k4t/shellcmatrix.git
+git clone https://github.com/r3k4t/time.git
 <br>
 cd time
 <br>
