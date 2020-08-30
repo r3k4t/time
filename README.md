@@ -6,10 +6,10 @@
 
    
      $$$$$$$$$$$$$$$$$$$$
-     + +   Time  + +
+       + +   Time  + +
      $$$$$$$$$$$$$$$$$$$$
 
-           Time
+             Time
 
 Run time with python program.Practice python program daily.Create your python programming skill.
 
@@ -24,6 +24,8 @@ Run time with python program.Practice python program daily.Create your python pr
 git clone https://github.com/r3k4t/time.git
 <br>
 cd time
+<br>
+python2 install.py
 <br>
 python2 time.py
 
