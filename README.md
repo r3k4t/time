@@ -19,7 +19,7 @@ Run time with python program.Practice python program daily.Create your python pr
 <li><a href="https://termux.com">termux</li>
 </ul>
 
-### Getting Started ###
+### Termux Command ###
 
 git clone https://github.com/r3k4t/time.git
 <br>
